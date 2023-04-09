@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 > this should be a quote
 
-<img src="https://www.shutterstock.com/de/image-photo/close-fashion-portrait-male-afro-african-1290371446"/>
+![buddha](/buddha.png)
